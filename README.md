@@ -99,6 +99,7 @@ Methods that improve model weights or training behavior through self-generated f
 - [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) - Trains language models to generate and judge their own instruction-following data over repeated alignment rounds. (ICML 2024)
 
 ### Synthetic Data & Self-Distillation
+- [ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation](https://arxiv.org/abs/2609.39306) - Mitigates performance collapse in iterative agent self-distillation by learning selectively from deployment experience and preserving the student's ability to supervise the next cycle. (arXiv 2026)
 
 - [Recursive Synthesis for Long-Horizon Terminal Tasks](https://arxiv.org/abs/2608.05466) - Treats accepted tasks as seeds for the next round, generating increasingly difficult terminal tasks used for SFT and PPO as enabling work rather than strict RSI. (arXiv 2026)
 - [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585) - Iteratively samples, filters, and retrains on model-generated solutions to scale self-training beyond human demonstrations. (TMLR 2024)
