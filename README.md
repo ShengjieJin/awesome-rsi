@@ -139,9 +139,9 @@ Methods that improve prompts, memory, verification, tools, or agent policies aro
 - [DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines](https://arxiv.org/abs/2310.03714) - Compiles declarative LM programs by optimizing prompts and demonstrations against a user-defined metric. (NeurIPS 2023 R0-FoMo Workshop)
 
 ### Context & Memory Evolution
-- [AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation](https://arxiv.org/abs/2609.15457) - Turns unexpected GUI outcomes into visual evidence for immediate correction and reusable strategies that help agents avoid repeating mistakes across attempts. (ECCV 2026)
 
 - [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618) - Evolves context as a structured playbook through generation, reflection, and curation while avoiding destructive context collapse. (ICLR 2026)
+- [AnchorGUI: Asymmetric Memory for Dual-Scale Learning in GUI Navigation](https://arxiv.org/abs/2609.15457) - Turns unexpected GUI outcomes into visual evidence for immediate correction and reusable strategies that help agents avoid repeating mistakes across attempts. (ECCV 2026)
 - [EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle](https://arxiv.org/abs/2510.16079) - Distills interaction trajectories into reusable strategic principles, retrieves them during future tasks, and reinforces the agent policy in a closed experience loop. (ICML 2026)
 - [From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097) - Compares experience representations across 4,590 controlled trials and finds that compact, editable Genes provide stronger test-time control and carry accumulated failure history better than documentation-oriented Skill packages. (arXiv 2026)
 - [Learning to Continually Learn via Meta-learning Agentic Memory Designs](https://arxiv.org/abs/2602.07755) - Uses a meta-agent to discover executable memory schemas and retrieval and update mechanisms that continually improve from experience. (arXiv 2026)
